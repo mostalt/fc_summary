@@ -30,8 +30,8 @@
 ### Coin
 [XMR Monero](https://moneroexplorer.com/)
 ### Plugins
-[Coinhive](https://coinhive.com/)
-[Coinimp](https://www.coinimp.com/)
+* [Coinhive](https://coinhive.com/)
+* [Coinimp](https://www.coinimp.com/)
 
 
 ## Apollo - год спустя
@@ -70,7 +70,7 @@
 
 #### Появились куча тулзов для работы с graphql:
 * vscode plugin
-* дефтулзы
+* девтулзы
 * graphQL faker and etc
 * apollo boost (starter)
 
